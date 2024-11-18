@@ -121,6 +121,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/ariramadhan/Projects/CVSatriaMandiriRepo/CVSatriaMandiriRepo/wwwroot/images/about-us.png",
+      "PackagePath": "staticwebassets/images/about-us.png"
+    },
+    {
       "Id": "/Users/ariramadhan/Projects/CVSatriaMandiriRepo/CVSatriaMandiriRepo/wwwroot/images/banner-bg.png",
       "PackagePath": "staticwebassets/images/banner-bg.png"
     },

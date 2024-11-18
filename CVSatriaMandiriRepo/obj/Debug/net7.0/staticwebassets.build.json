@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qXOKpn1Eg4x2OLU+guvtDjN1Rz5rrRyhTPAyX53fCso=",
+  "Hash": "jpRshlFP10gFwev6n9SX5ZgfXW41waWlA07ttGaZMSI=",
   "Source": "CVSatriaMandiriRepo",
   "BasePath": "_content/CVSatriaMandiriRepo",
   "Mode": "Default",
@@ -542,6 +542,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/ariramadhan/Projects/CVSatriaMandiriRepo/CVSatriaMandiriRepo/wwwroot/images/about-us.png",
+      "SourceId": "CVSatriaMandiriRepo",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ariramadhan/Projects/CVSatriaMandiriRepo/CVSatriaMandiriRepo/wwwroot/",
+      "BasePath": "_content/CVSatriaMandiriRepo",
+      "RelativePath": "images/about-us.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/about-us.png"
     },
     {
       "Identity": "/Users/ariramadhan/Projects/CVSatriaMandiriRepo/CVSatriaMandiriRepo/wwwroot/images/banner-bg.png",
