@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CVSatriaMandiriRepo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6006b9d08de954f97c7b5923d1918321af3c81a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CVSatriaMandiriRepo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CVSatriaMandiriRepo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

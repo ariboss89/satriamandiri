@@ -1,5 +1,5 @@
-# Langsung gunakan runtime .NET (tidak perlu SDK compiler lagi)
-FROM ://microsoft.com
+# Gunakan image runtime .NET (sesuaikan versi: 8.0 / 7.0 / 6.0)
+FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
 
 # Salin seluruh isi folder publish lokal ke dalam image docker

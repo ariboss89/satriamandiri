@@ -10,15 +10,11 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CVSatriaMandiriRepo
 build_property.RootNamespace = CVSatriaMandiriRepo
 build_property.ProjectDir = /Users/ariramadhan/Projects/satriamandiri/CVSatriaMandiriRepo/
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = /Users/ariramadhan/Projects/satriamandiri/CVSatriaMandiriRepo
 build_property._RazorSourceGeneratorDebug = 
-build_property.EffectiveAnalysisLevelStyle = 7.0
-build_property.EnableCodeStyleSeverity = 
 
 [/Users/ariramadhan/Projects/satriamandiri/CVSatriaMandiriRepo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
